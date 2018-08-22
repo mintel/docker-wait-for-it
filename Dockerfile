@@ -1,5 +1,6 @@
-
 FROM alpine:3.8
+
+LABEL maintainer="nbadger@mintel.com"
 
 WORKDIR /root
 
